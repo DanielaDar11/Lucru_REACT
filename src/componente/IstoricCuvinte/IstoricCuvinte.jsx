@@ -10,7 +10,7 @@ const IstoricCuvinte = ({ istoric }) => (
           item.corect ? styles.corect : styles.gresit
         }`}
       >
-        {item.cuvant} - {item.corect ? "Ghicit corect!" : "Nu ai ghicit!"}
+        {item.cuvant} - {item.corect ? "Ghicit corect!!" : "Nu ai ghicit!"}
       </p>
     ))}
   </div>

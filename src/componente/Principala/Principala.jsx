@@ -23,7 +23,7 @@ function Principala() {
       <h1 className={styles.titlu}>Jocul Spânzurătoarea</h1>
       <div className={styles.citatContainer}>
         <p className={styles.citat}>
-          „Fiecare pas mic pe care îl faci te duce mai aproape de succes.”
+          „Fiecare pas mic pe care îl faci te duce mai aproape de Succes.”
         </p>
       </div>
       <div className={styles.spImageContainer}>

@@ -11,7 +11,7 @@ const DetaliiScor = ({ istoricCuvinte }) => {
             item.corect ? styles.corect : styles.gresit
           }`}
         >
-          {item.cuvant} - {item.corect ? "Corect" : "Greșit"}
+          {item.cuvant} - {item.corect ? "CORECT" : "GREȘIT"}
         </li>
       ))}
     </ul>
