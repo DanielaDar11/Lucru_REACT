@@ -1,2 +1,1 @@
-"Linie de pe main" 
-"Continut adaugat de pe branch-conflict"
+"O noua linie de pe main"
