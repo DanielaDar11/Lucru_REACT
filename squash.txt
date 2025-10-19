@@ -1,0 +1,3 @@
+"Linia 1 in fisier adaugata pe branch-squash"
+"Linia 2 in fisier adaugata pe branch-squash"
+"Linia 3 in fisier adaugata pe branch-squash"
