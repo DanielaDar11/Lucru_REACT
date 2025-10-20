@@ -1,0 +1,2 @@
+Acesta este un fisier creat direct pe GitHub.
+Vreau sa testez comanda git fetch 
