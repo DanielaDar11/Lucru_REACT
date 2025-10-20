@@ -1,0 +1,2 @@
+Acesta este fisierul meu nou creat pe GitHub.
+Vreau sa testez comanda git pull pe local.
